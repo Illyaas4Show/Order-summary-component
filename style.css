@@ -59,6 +59,7 @@ img {
 h2 {
     font-weight: 900;
     margin-top: 2rem;
+    margin-bottom: 1.5rem;
     color: var(--darkBlue);
 }
 
