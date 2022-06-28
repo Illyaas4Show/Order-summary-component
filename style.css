@@ -21,6 +21,9 @@ body {
     background-size: ;
     background-color: var(--paleBlue);
     font-family: 'Red Hat Display', sans-serif;
+}
+
+main {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -38,13 +41,13 @@ body {
 }
 
 .middle-top {
-    padding: 0 3em 0 3em;
+    padding: 0 2em 0 2em;
     transition: padding 1s ease;
 }
 
 .middle-bottom {
-    padding-right: 2em;
-    padding-left: 2em;
+    /* padding-right: 2em;
+    padding-left: 2em; */
     transition: padding 1s ease;
 }
 
@@ -56,7 +59,7 @@ img {
     border-radius: 1.5rem 1.5rem 0 0;
 }
 
-h2 {
+h1 {
     font-weight: 900;
     margin-top: 2rem;
     margin-bottom: 1.5rem;
@@ -153,7 +156,7 @@ button:hover {
 
 @media screen and (min-width: 800px) {
     .middle-bottom {
-        padding: 0 3em 0em 3em;   
+        /* padding: 0 3em 0em 3em;    */
     }
 
     ul {
