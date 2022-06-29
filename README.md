@@ -31,7 +31,7 @@ Users should be able to:
 ## My process
 
 - I structured the card with HTML, getting ready to use flexbox.
- - I used a list for the pricing section.
+    - I used a list for the pricing section.
 - I then added styling to the element and did the background.
 
 ### Built with
