@@ -33,6 +33,7 @@ Users should be able to:
 - I structured the card with HTML, getting ready to use flexbox.
     - I used a list for the pricing section.
 - I then added styling to the element and did the background.
+- I changed some of the styling using media query to make it more identical to the desktop preview
 
 ### Built with
 
