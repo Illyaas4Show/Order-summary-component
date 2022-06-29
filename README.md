@@ -51,6 +51,6 @@ I learn a little more about flexbox for example, how the justify-content and ali
 - [Ahmed Bayoumi](https://www.frontendmentor.io/profile/Bayoumi-dev) - He helped me with the accessibility issues.
 
 ## Author
-- [GitHub](https://github.com/Illyaas4Show/)
+- [Illyaas](https://github.com/Illyaas4Show/)
 
 Thank you for viewing :smile:
