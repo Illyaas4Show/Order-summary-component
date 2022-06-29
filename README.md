@@ -1,6 +1,6 @@
 # Frontend Mentor - Order summary component solution
 
-![Design preview for the QR code component coding challenge](ordersummaryscreenshot.pgn)
+![Design preview for the QR code component coding challenge](ordersummaryscreenshot.png)
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).
 
