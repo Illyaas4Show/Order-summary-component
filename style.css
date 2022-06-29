@@ -33,7 +33,7 @@ main {
 .container {
     background-color: white;
     text-align: center;
-    width: clamp(370px, 50%, 430px);
+    width: clamp(370px, 50%, 450px);
     border-radius: 1.5rem;
     
     box-shadow: 0 20px 20px hsla(245, 75%, 52%, .1);
@@ -103,6 +103,7 @@ ul li:first-of-type {
 ul li:last-of-type {
     margin-left: auto;
     color: var(--darkBlue);
+    font-size: 14px;
 }
 
 ul li a:last-of-type:hover {
