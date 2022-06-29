@@ -102,6 +102,7 @@ ul li:first-of-type {
 
 ul li:last-of-type {
     margin-left: auto;
+    color: var(--darkBlue);
 }
 
 ul li a:last-of-type:hover {
